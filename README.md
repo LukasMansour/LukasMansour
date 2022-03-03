@@ -2,8 +2,6 @@
 <h3 align="center">Enthusiastic student studying computer science from Germany.</h3>
 <h3 align="center">Currently working for the Deutsches Elektronen-Synchrotron DESY.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukasmansour&label=Profile%20views&color=0e75b6&style=flat" alt="lukasmansour" /> </p>
-
 - 🌱 I’m currently learning **JavaScript, C++ and scientific computing.**
 
 - 💬 Ask me about **Java, Kotlin, JVM, Databases or Schema Generation/Migration.**
